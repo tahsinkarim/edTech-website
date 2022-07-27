@@ -24,7 +24,7 @@ body {
 .carousel-item img {
   filter: brightness(40%);
 }
-.register-text {
+.max-width-text {
   max-width: 500px;
 }
 .register-now {
