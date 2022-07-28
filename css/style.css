@@ -2,6 +2,7 @@
 body {
   font-family: "Poppins", sans-serif;
 }
+/* Custom Colors */
 .background-sky-blue {
   background-color: #289bde;
 }
@@ -13,6 +14,9 @@ body {
 }
 .color-lighter-gray {
   color: #f4f4f4;
+}
+.color-white {
+  color: #fff;
 }
 .color-light-gray {
   color: #777777;
@@ -37,6 +41,7 @@ body {
 .social-links a:hover {
   color: #289bde;
 }
+
 /* Carousel Responsive */
 @media (max-width: 576px) {
   .header-carousel-caption {
